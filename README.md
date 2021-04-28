@@ -5,4 +5,4 @@
 
 
 ### About me
-Sou um estudante, atualmente me aprofundando em Python para Data Science e Análise de Dados.
+Me aprofundando em Análise de Dados utilizando tecnologias como Python, SQL, Power BI e métodos estatísticos.
