@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou finalizando o curso de Análise e Desenvolvimento de Sistemas.
 
-- 📚 Me aprofundando em ferramentas para resolver problemas de negócios através de dados como Python, Power BI, SQL, Machine Learning e SAS.
+- 📚 Me aprofundando em ferramentas para resolver problemas de negócios através de dados como Python, Power BI, SQL, Machine Learning, etc.
 
 
 
