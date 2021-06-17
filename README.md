@@ -10,9 +10,9 @@
 
 
 
-- 📫 Você pode me encontrar no Linkedin: [Linkedin](https://www.linkedin.com/in/hhigorb)
+- 📫 Você pode me encontrar no Linkedin: [Linkedin](https://www.linkedin.com/in/hhigorb).
 
-- ✉️ Ou quem sabe me mandar um e-mail: [Outlook](mailto:hhigorb@outlook.com)
+- ✉️ Ou quem sabe me mandar um e-mail: [Outlook](mailto:hhigorb@outlook.com).
 
 
 
