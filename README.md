@@ -4,9 +4,9 @@
 
 
 
-- 🔭 Atualmente estou finalizando o curso de Análise e Desenvolvimento de Sistemas.
+- 🔭 Formado em Análise de Sistemas e Engenheiro de Dados.
 
-- 📚 Me aprofundando em ferramentas para resolver problemas de negócios através de dados como Python, Power BI, SQL, Pentaho, etc.
+- 📚 Sempre em busca de novos horizontes e conhecimentos. Meu foco é sempre ser um profissional melhor dia após dia.
 
 
 
