@@ -6,7 +6,7 @@
 
 - 🔭 Formado em Análise de Sistemas e Engenheiro de Dados.
 
-- 📚 Sempre em busca de novos horizontes e conhecimentos. Meu foco é sempre me aprimorar/atualizar na área de tecnologia/ dados e sempre estar um passo a frente em conhecimento e prática. 
+- 📚 Sempre em busca de novos horizontes e conhecimentos. Meu foco é sempre me aprimorar/atualizar na área de tecnologia/dados e sempre estar um passo a frente em conhecimento e prática. 
 
 
 
