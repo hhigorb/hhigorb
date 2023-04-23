@@ -9,7 +9,7 @@ class DataEngineer:
 
     def __init__(self):
         self.name = "Higor"
-        self.role = "DAta Engineer"
+        self.role = "Data Engineer"
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
@@ -22,7 +22,7 @@ me.say_hi()
 
 ---
 
-### Contact
+### Contacts
 
 - 📫 You can find me on Linkedin: [Linkedin](https://www.linkedin.com/in/hhigorb)
 
