@@ -1,18 +1,32 @@
 ### Hey! 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
+class DataEngineer:
 
-- 🔭 Formado em Análise de Sistemas e Engenheiro de Dados.
+    def __init__(self):
+        self.name = "Higor"
+        self.role = "DAta Engineer"
+        self.language_spoken = ["pt_BR", "en_US"]
 
-- 📚 Sempre em busca de novos horizontes e conhecimentos. Meu foco é sempre me aprimorar/atualizar na área de tecnologia/dados e sempre estar um passo a frente em conhecimento e prática. 
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
+me = DataEngineer()
+me.say_hi()
+```
 
-- 📫 Você pode me encontrar no Linkedin: [Linkedin](https://www.linkedin.com/in/hhigorb)
+---
 
-- ✉️ Ou quem sabe me mandar um e-mail: [Outlook](mailto:hhigorb@outlook.com)
+### Contact
+
+- 📫 You can find me on Linkedin: [Linkedin](https://www.linkedin.com/in/hhigorb)
+
+- ✉️ Or maybe send me an email: [Outlook](mailto:hhigorb@outlook.com)
 
 
 
