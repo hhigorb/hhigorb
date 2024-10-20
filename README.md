@@ -26,7 +26,7 @@ me.say_hi()
 
 - 💬 You can find me on Linkedin: [Linkedin](https://www.linkedin.com/in/hhigorb)
 
-- 📨 Or maybe send me an email: [Outlook](mailto:hhigorb@outlook.com)
+- 📨 Or maybe send me an email: [Outlook](mailto:insightsyncconsultoria@gmail.com)
 
 
 
